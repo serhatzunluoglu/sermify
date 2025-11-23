@@ -62,13 +62,6 @@ Optimized for phones, tablets, and desktops.
 
 ---
 
-# 🚀 Frontend Setup
-
-```bash
-cd english-app
-npm install
-npm run dev
-
 
 
 
@@ -136,9 +129,3 @@ Telefon, tablet ve masaüstü cihazlar için optimize edilmiştir.
 
 ---
 
-# 🚀 Frontend Kurulum
-
-```bash
-cd english-app
-npm install
-npm run dev
