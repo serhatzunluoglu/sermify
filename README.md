@@ -68,3 +68,77 @@ Optimized for phones, tablets, and desktops.
 cd english-app
 npm install
 npm run dev
+
+
+
+
+# 🇹🇷 Sermify – İngilizce Öğrenme Platformu  
+### *“Öğrenmek İçin Gülümse”*
+
+Sermify, kısa videolar, interaktif alıştırmalar ve pratik testler ile İngilizce öğrenmeyi eğlenceli ve verimli hale getirmek için tasarlanmış modern bir öğrenme platformudur.  
+Proje; araştırma, kullanıcı analizi, UI/UX tasarımı, frontend ve backend geliştirme aşamalarından geçerek bir bitirme projesi olarak geliştirilmiştir.
+
+---
+
+# ⭐ Temel Özellikler
+
+### 🎬 Kısa Öğrenme Videoları  
+• Eğlenceli 10–15 saniyelik klipler  
+• Günlük kullanım örnekleri  
+• Tamamen mobil uyumlu  
+
+### 📝 Etkileşimli Alıştırmalar  
+• Çoktan seçmeli sorular  
+• Videolu sorular  
+• Görsellerle desteklenmiş sorular  
+• Boşluk doldurma  
+• Soruları atlama / geri dönme  
+• Soru ilerleme göstergesi  
+
+### 👤 Profil Sayfası  
+• Doğruluk oranı  
+• Kullanıcı istatistik özeti  
+• Tamamlanan alıştırmalar  
+
+### 🏆 Sıralama  
+Kullanıcı performansı ve puanlara göre global sıralama.
+
+### 🎨 Tema Seçenekleri  
+• Koyu tema  
+• Açık tema  
+
+### 📱 Tamamen Responsive  
+Telefon, tablet ve masaüstü cihazlar için optimize edilmiştir.
+
+---
+
+# 🧱 Kullanılan Teknolojiler
+
+### Frontend (english-app)
+• React  
+• Vite  
+• SASS / SCSS  
+• React Router DOM  
+• Axios  
+• Context API (Tema + Auth)
+
+### Backend (WebProjectQuiz)
+• Laravel  
+• MySQL  
+• JWT Authentication  
+• REST API  
+• Migrations / Seeders  
+
+### Araçlar
+• Figma  
+• Git & GitHub  
+• Plesk Deployment  
+
+---
+
+# 🚀 Frontend Kurulum
+
+```bash
+cd english-app
+npm install
+npm run dev
